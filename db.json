@@ -36,19 +36,13 @@
           "id": "4",
           "title": "Smartphones e Tablets",
           "slug": "smartphone-e-tabletes",
-          "quantity": 0
+          "quantity": 2
         },
         {
           "id": "5",
           "title": "Fones de ouvido",
           "slug": "fones-de-ouvido",
           "quantity": 12
-        },
-        {
-          "id": "6",
-          "title": "Eletrônicos vestíveis",
-          "slug": "eletronicos-vestiveis",
-          "quantity": 0
         }
       ]
     },
@@ -62,19 +56,19 @@
           "id": "7",
           "title": "Bolsas",
           "slug": "bolsas",
-          "quantity": 0
+          "quantity": 3
         },
         {
           "id": "8",
           "title": "Oculos escuros",
           "slug": "oculos-escuros",
-          "quantity": 0
+          "quantity": 3
         },
         {
           "id": "9",
           "title": "Relógios",
           "slug": "relogios",
-          "quantity": 0
+          "quantity": 3
         }
       ]
     }
