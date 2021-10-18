@@ -2,9 +2,9 @@
   "categorias": [
     {
       "id": "1",
-      "title": "Sapato",
+      "title": "Calçados",
       "figure": "dist/img/shop/categories/02.jpg",
-      "slug": "sapato",
+      "slug": "calcados",
       "subcategoria": [
         {
           "id": "1",
