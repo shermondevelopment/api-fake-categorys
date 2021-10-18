@@ -32,7 +32,7 @@
       "title": "Aparelhos",
       "slug": "aparelhos",
       "figure": "dist/img/shop/categories/03.jpg",
-      "total" 14,
+      "total": 14,
       "subcategoria": [
         {
           "id": "4",
